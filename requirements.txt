@@ -1,0 +1,8 @@
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+
+Model Link: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML
